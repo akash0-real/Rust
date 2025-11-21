@@ -7,9 +7,9 @@ fn main() {
     assert_eq!(a,10);
     assert_eq!(b,10);
     println!("Yes!!");
-    muttable();
+    mutable();
 }
-fn muttable(){
+fn mutable(){
     let mut a:i32 = 5;
     let mut b: i32 = 10;
 
