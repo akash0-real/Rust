@@ -1,0 +1,35 @@
+/target
+
+
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target
+# === Rust & Cargo ===
+/target/
+/Cargo.lock
+**/*.rs.bk
+
+# === Build Artifacts ===
+debug/
+/release/
+
+# === RustRover / JetBrains IDE ===
+.idea/
+*.iml
+
+# === Logs & temp ===
+*.log
+*.tmp
+*.temp
+
+# === OS-specific ===
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
