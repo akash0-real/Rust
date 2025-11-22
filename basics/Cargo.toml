@@ -6,5 +6,8 @@ edition = "2024"
 [[bin]]
 name = "conditional"
 path = "src/conditional/First.rs"
+[[bin]]
+name = "data"
+path = "src/conditional/data.rs"
 
 [dependencies]
