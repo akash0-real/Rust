@@ -5,7 +5,7 @@ edition = "2024"
 
 [[bin]]
 name = "conditional"
-path = "src/conditional/First.rs"
+path = "src/conditional/first.rs"
 [[bin]]
 name = "data"
 path = "src/conditional/data.rs"
