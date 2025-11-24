@@ -13,4 +13,7 @@ path = "src/conditional/data.rs"
 [[bin]]
 name = "add_fn"
 path = "src/conditional/add_fn.rs"
+[[bin]]
+name = "bmi_calculator"
+path = "src/conditional/bmi_calculator.rs"
 [dependencies]
